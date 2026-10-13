@@ -1,17 +1,17 @@
-# A Study of Online Melt Pool, Plume, and Spatter tracking in  Laser Powder Bed Fusion using DBSCAN
+# A Study of Online Melt Pool, Plume, and Spatter Tracking in  Laser Powder Bed Fusion using DBSCAN
 
-This repo accompanies a paper submitted to SPIE in 2025 and contains a reproduction of the methodology demonstrated in that paper.
+This repo accompanies the paper: Yanzhou Fu, Matthew Whetham, Austin R. J. Downey, Lang Yuan, and Gurcan Comert. A study of online melt pool, plume, and spatter tracking in laser powder bed fusion using DBSCAN. In Christopher Niezrecki and Saman Farhangdoust, editors, Digital Twins, AI, and NDE for Industry Applications and Energy Systems 2025, page 21. SPIE, May 2025. doi:10.1117/12.3051110.
 
 <p align="center">
 <img src="figures/feture extraction_v2.png" alt="feture extraction_v2" width="600"/>
 
-The melt pool, plume, and spatter feature extract from the printing images.
+The melt pool, plume, and spatter features are extracted from the printing images.
 </p>
 
 <p align="center">
 <img src="figures/output_2Dand3D.png" alt="defect segmentation" width="600"/>
 
-The 2D and 3D visualization of the clustering results from the DBSCAN.
+The 2D and 3D visualization of the clustering results from DBSCAN.
 </p>
 
 
@@ -38,11 +38,11 @@ This work is licensed under a
 
 Cite as:
 
-@Misc{Fu_2025_DBSCAN_in_LPBF,   
+@Misc{Fu2025PaperStudyOnline,   
   author = {Yanzhou Fu and Austin R.J. Downey},   
   howpublished = {GitHub},  
-  title  = {Paper-A-Study-of-Online-Melt-Pool-Plume-and-Spatter-Tracking-in-Laser-Powder-Bed-Fusion-using-DBSCAN},   
+  title  = {Paper-2025-A-Study-of-Online-Melt-Pool-Plume-and-Spatter-Tracking-in-Laser-Powder-Bed-Fusion-using-DBSCAN},   
   year   = {2025},  
   groups = {{ARTS-L}ab},    
-  url    = {https://github.com/ARTS-Laboratory/paper-2025-DBSCAN-clustering-in-LPBF},    
+  url    = {https://github.com/ARTS-Laboratory/Paper-2025-A-Study-of-Online-Melt-Pool-Plume-and-Spatter-Tracking-in-Laser-Powder-Bed-Fusion},    
 }
